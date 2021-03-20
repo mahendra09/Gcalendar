@@ -57,6 +57,7 @@ $login_url = 'https://accounts.google.com/o/oauth2/auth?scope=' . urlencode('htt
 
 ?>
 <h1>Hello Google Calendarrrrrrrrrrrrrrrr</h1>
+<h1>Hello Google Calendarrrrrrrrrrrrrrrr</h1>
 <a id="logo" href="<?= $login_url ?>">Login with Google</a>
 
 </body>
